@@ -97,25 +97,6 @@ I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prathameshpandir-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshpandir-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <i>Building consistently. Improving continuously. 🚀</i>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to **collaborating, building interesting projects,
